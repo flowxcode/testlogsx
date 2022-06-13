@@ -1,0 +1,43 @@
+2022-06-13 13:07:09.0183 Info Message Template Auto Format enabled
+2022-06-13 13:07:09.0287 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-13 13:07:09.0723 Info Adding target FileTarget(Name=allfile)
+2022-06-13 13:07:09.0723 Info Adding target FileTarget(Name=ownFile-web)
+2022-06-13 13:07:09.0723 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-06-13 13:07:09.0957 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=C:\git\testlogs\ConsoleClient\WebApplication1\bin\Debug\net6.0\NLog.config
+2022-06-13 13:08:47.0788 Info Message Template Auto Format enabled
+2022-06-13 13:08:47.1001 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-13 13:08:47.2972 Info Adding target FileTarget(Name=allfile)
+2022-06-13 13:08:47.2972 Info Adding target FileTarget(Name=ownFile-web)
+2022-06-13 13:08:47.2972 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-06-13 13:08:47.3534 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=C:\git\testlogs\ConsoleClient\WebApplication1\bin\Debug\net6.0\NLog.config
+2022-06-13 13:10:25.6730 Info Message Template Auto Format enabled
+2022-06-13 13:10:25.6876 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-13 13:10:25.8014 Info Adding target FileTarget(Name=allfile)
+2022-06-13 13:10:25.8044 Info Adding target FileTarget(Name=ownFile-web)
+2022-06-13 13:10:25.8044 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-06-13 13:10:25.8935 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=C:\git\testlogs\ConsoleClient\WebApplication1\bin\Debug\net6.0\NLog.config
+2022-06-13 13:11:40.1042 Info Message Template Auto Format enabled
+2022-06-13 13:11:40.1042 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-13 13:11:40.2074 Info Adding target FileTarget(Name=allfile)
+2022-06-13 13:11:40.2074 Info Adding target FileTarget(Name=ownFile-web)
+2022-06-13 13:11:40.2074 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-06-13 13:11:40.2293 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=C:\git\testlogs\ConsoleClient\WebApplication1\bin\Debug\net6.0\NLog.config
+2022-06-13 13:13:26.2888 Info Message Template Auto Format enabled
+2022-06-13 13:13:26.2888 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-13 13:13:26.3678 Info Adding target FileTarget(Name=allfile)
+2022-06-13 13:13:26.3678 Info Adding target FileTarget(Name=ownFile-web)
+2022-06-13 13:13:26.3678 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-06-13 13:13:26.3955 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=C:\git\testlogs\ConsoleClient\WebApplication1\bin\Debug\net6.0\NLog.config
+2022-06-13 13:14:10.7977 Info Message Template Auto Format enabled
+2022-06-13 13:14:10.8466 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-13 13:14:10.9674 Info Adding target FileTarget(Name=allfile)
+2022-06-13 13:14:10.9674 Info Adding target FileTarget(Name=ownFile-web)
+2022-06-13 13:14:10.9674 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-06-13 13:14:11.0226 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=C:\git\testlogs\ConsoleClient\WebApplication1\bin\Debug\net6.0\NLog.config
+2022-06-13 13:18:16.0666 Info Message Template Auto Format enabled
+2022-06-13 13:18:16.0868 Info Loading assembly: NLog.Web.AspNetCore
+2022-06-13 13:18:16.3254 Info Adding target FileTarget(Name=allfile)
+2022-06-13 13:18:16.3254 Info Adding target FileTarget(Name=ownFile-web)
+2022-06-13 13:18:16.3254 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2022-06-13 13:18:16.3960 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=C:\git\testlogs\ConsoleClient\WebApplication1\bin\Debug\net6.0\NLog.config
+2022-06-13 13:18:17.2116 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=C:\git\testlogs\ConsoleClient\WebApplication1\bin\Debug\net6.0\NLog.config

@@ -16,12 +16,13 @@ namespace WebApplication1.Controllers
         public WeatherForecastController(ILogger<WeatherForecastController> logger)
         {
             _logger = logger;
+            _logger.LogDebug(1, "NLog injected into HomeController");
         }
 
         [HttpGet(Name = "GetWeatherForecast")]
         public IEnumerable<WeatherForecast> Get()
         {
-            _logger.LogDebug("test");
+            _logger.LogDebug(1, "test");
 
             return Enumerable.Range(1, 5).Select(index => new WeatherForecast
             {

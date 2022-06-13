@@ -1,3 +1,4 @@
+C:\git\testlogs\ConsoleClient\WebApplication1\bin\Debug\net6.0\nlog.config
 C:\git\testlogs\ConsoleClient\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
 C:\git\testlogs\ConsoleClient\WebApplication1\bin\Debug\net6.0\appsettings.json
 C:\git\testlogs\ConsoleClient\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
@@ -6,6 +7,9 @@ C:\git\testlogs\ConsoleClient\WebApplication1\bin\Debug\net6.0\WebApplication1.r
 C:\git\testlogs\ConsoleClient\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
 C:\git\testlogs\ConsoleClient\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
 C:\git\testlogs\ConsoleClient\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\git\testlogs\ConsoleClient\WebApplication1\bin\Debug\net6.0\NLog.dll
+C:\git\testlogs\ConsoleClient\WebApplication1\bin\Debug\net6.0\NLog.Extensions.Logging.dll
+C:\git\testlogs\ConsoleClient\WebApplication1\bin\Debug\net6.0\NLog.Web.AspNetCore.dll
 C:\git\testlogs\ConsoleClient\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\git\testlogs\ConsoleClient\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\git\testlogs\ConsoleClient\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
